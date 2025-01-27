@@ -26,4 +26,4 @@ A simple yet powerful **Password Generator** built using **HTML**, **CSS**, and 
 4. Copy the generated password and use it wherever you need.
 
 ## 🚀 Live Demo
-Try it out here: [Password Generator Live]( )  
+Try it out here: [Password Generator Live](https://purvarawale.github.io/Mini-project-Password-Generator-/)  
